@@ -139,15 +139,6 @@ DOMAIN-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net
 DOMAIN-SUFFIX,ns.itunes.apple.com
 DOMAIN-SUFFIX,ns.itunes-apple.com.akadns.net
 
-# Github Mirror
-DOMAIN-SUFFIX,ghproxy.cc
-DOMAIN-SUFFIX,ghproxy.com
-DOMAIN-SUFFIX,gh-proxy.com
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,gh.llkk.cc
-DOMAIN-SUFFIX,slink.ltd
-DOMAIN-SUFFIX,gitdl.cn
-
 # Personal
 DOMAIN-SUFFIX,alist.leefurmore.com
 DOMAIN-SUFFIX,alist-v6.leefurmore.com

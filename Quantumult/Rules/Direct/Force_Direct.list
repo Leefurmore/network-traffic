@@ -139,15 +139,6 @@ HOST-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net,Force_Direct
 HOST-SUFFIX,ns.itunes.apple.com,Force_Direct
 HOST-SUFFIX,ns.itunes-apple.com.akadns.net,Force_Direct
 
-# Github Mirror
-HOST-SUFFIX,ghproxy.cc,Force_Direct
-HOST-SUFFIX,ghproxy.com,Force_Direct
-HOST-SUFFIX,gh-proxy.com,Force_Direct
-HOST-SUFFIX,jsdelivr.net,Force_Direct
-HOST-SUFFIX,gh.llkk.cc,Force_Direct
-HOST-SUFFIX,slink.ltd,Force_Direct
-HOST-SUFFIX,gitdl.cn,Force_Direct
-
 # Personal
 HOST-SUFFIX,alist.leefurmore.com,Force_Direct
 HOST-SUFFIX,alist-v6.leefurmore.com,Force_Direct

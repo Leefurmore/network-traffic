@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com
 DOMAIN-SUFFIX,acsbapp.com
+DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,api.aws
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,amazonaws.com
