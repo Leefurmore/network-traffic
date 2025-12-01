@@ -1,0 +1,4 @@
+# YouTube-Plus
+payload:
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,music.youtube.com
