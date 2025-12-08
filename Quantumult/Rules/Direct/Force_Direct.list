@@ -84,32 +84,6 @@ HOST-SUFFIX,springsunday.net,Force_Direct
 HOST-SUFFIX,tjupt.org,Force_Direct
 HOST-SUFFIX,totheglory.im,Force_Direct
 
-USER-AGENT,aria2c,Force_Direct
-USER-AGENT,BitComet,Force_Direct
-USER-AGENT,fdm,Force_Direct
-USER-AGENT,NetTransport,Force_Direct
-USER-AGENT,qbittorrent,Force_Direct
-USER-AGENT,Thunder,Force_Direct
-USER-AGENT,transmission-daemon,Force_Direct
-USER-AGENT,transmission-qt,Force_Direct
-USER-AGENT,uTorrent,Force_Direct
-USER-AGENT,WebTorrent,Force_Direct
-USER-AGENT,Folx,Force_Direct
-USER-AGENT,Transmission,Force_Direct
-USER-AGENT,WebTorrent Helper,Force_Direct
-USER-AGENT,v2ray,Force_Direct
-USER-AGENT,ss-local,Force_Direct
-USER-AGENT,ssr-local,Force_Direct
-USER-AGENT,ss-redir,Force_Direct
-USER-AGENT,ssr-redir,Force_Direct
-USER-AGENT,ss-server,Force_Direct
-USER-AGENT,trojan-go,Force_Direct
-USER-AGENT,xray,Force_Direct
-USER-AGENT,hysteria,Force_Direct
-USER-AGENT,singbox,Force_Direct
-USER-AGENT,UUBooster,Force_Direct
-USER-AGENT,uugamebooster,Force_Direct
-
 # Windows Network
 HOST-SUFFIX,msftconnecttest.com,Force_Direct
 HOST-SUFFIX,msftncsi.com,Force_Direct
@@ -119,6 +93,7 @@ HOST-SUFFIX,ntp.org,Force_Direct
 HOST-SUFFIX,time.apple.com,Force_Direct
 HOST-SUFFIX,time-ios.apple.com,Force_Direct
 HOST-SUFFIX,time.g.aaplimg.com,Force_Direct
+HOST-SUFFIX,time.nist.gov,Force_Direct
 
 # Apple Software Update
 HOST-SUFFIX,updates.cdn-apple.com,Force_Direct

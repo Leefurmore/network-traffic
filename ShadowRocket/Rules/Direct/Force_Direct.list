@@ -84,32 +84,6 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 
-USER-AGENT,aria2c
-USER-AGENT,BitComet
-USER-AGENT,fdm
-USER-AGENT,NetTransport
-USER-AGENT,qbittorrent
-USER-AGENT,Thunder
-USER-AGENT,transmission-daemon
-USER-AGENT,transmission-qt
-USER-AGENT,uTorrent
-USER-AGENT,WebTorrent
-USER-AGENT,Folx
-USER-AGENT,Transmission
-USER-AGENT,WebTorrent Helper
-USER-AGENT,v2ray
-USER-AGENT,ss-local
-USER-AGENT,ssr-local
-USER-AGENT,ss-redir
-USER-AGENT,ssr-redir
-USER-AGENT,ss-server
-USER-AGENT,trojan-go
-USER-AGENT,xray
-USER-AGENT,hysteria
-USER-AGENT,singbox
-USER-AGENT,UUBooster
-USER-AGENT,uugamebooster
-
 # Windows Network
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
@@ -119,6 +93,7 @@ DOMAIN-SUFFIX,ntp.org
 DOMAIN-SUFFIX,time.apple.com
 DOMAIN-SUFFIX,time-ios.apple.com
 DOMAIN-SUFFIX,time.g.aaplimg.com
+DOMAIN-SUFFIX,time.nist.gov
 
 # Apple Software Update
 DOMAIN-SUFFIX,updates.cdn-apple.com
