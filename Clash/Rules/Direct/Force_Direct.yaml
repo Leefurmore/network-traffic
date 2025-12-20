@@ -132,6 +132,7 @@ payload:
   - DOMAIN-SUFFIX,gcdn.co
 
 # Others
+  - DOMAIN-SUFFIX,wd-gold.com
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,openwrt.ai
   - DOMAIN-SUFFIX,delldisplaymanagermac.com
