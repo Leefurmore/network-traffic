@@ -133,6 +133,7 @@ payload:
 
 # Others
   - DOMAIN-SUFFIX,wd-gold.com
+  - DOMAIN-SUFFIX,wd-turbo.com
   - DOMAIN-SUFFIX,immortalwrt.org
   - DOMAIN-SUFFIX,openwrt.ai
   - DOMAIN-SUFFIX,delldisplaymanagermac.com
