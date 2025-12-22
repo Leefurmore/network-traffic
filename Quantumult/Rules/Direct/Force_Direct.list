@@ -150,7 +150,7 @@ HOST-SUFFIX,api-cf.nn.ci,Force_Direct
 HOST-SUFFIX,api.xhofe.top,Force_Direct
 HOST-SUFFIX,ihezu.com,Force_Direct
 HOST-SUFFIX,ihezu.cn,Force_Direct
-HOST-SUFFIX,files.imgtu.top,Force_Direct
+# HOST-SUFFIX,files.imgtu.top,Force_Direct
 HOST-SUFFIX,embypro.xyz,Force_Direct
 HOST-SUFFIX,cpolar.top,Force_Direct
 HOST-SUFFIX,shunicomtest.com,Force_Direct
