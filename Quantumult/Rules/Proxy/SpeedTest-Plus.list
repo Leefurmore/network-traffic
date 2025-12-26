@@ -5,5 +5,6 @@ HOST-SUFFIX,spacecore.pro,SpeedTest-Plus
 HOST-SUFFIX,mbspeed.net,SpeedTest-Plus
 HOST-SUFFIX,fdcservers.net,SpeedTest-Plus
 HOST-SUFFIX,sparcs.net,SpeedTest-Plus
+HOST-SUFFIX,verizon.net,SpeedTest-Plus
 IP-CIDR,27.0.31.50/32,SpeedTest-Plus
 IP-CIDR,46.250.248.56/32,SpeedTest-Plus
