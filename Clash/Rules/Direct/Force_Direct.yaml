@@ -126,10 +126,6 @@ payload:
   - DOMAIN-SUFFIX,wgn-v6.leefurmore.com
   - DOMAIN-SUFFIX,wgn-r5s.leefurmore.com
   - DOMAIN-SUFFIX,wgn-r5s-v6.leefurmore.com
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,pages.dev
-  - DOMAIN-SUFFIX,cloudflareclient.com
-  - DOMAIN-SUFFIX,gcdn.co
 
 # Others
   - DOMAIN-SUFFIX,wd-gold.com
