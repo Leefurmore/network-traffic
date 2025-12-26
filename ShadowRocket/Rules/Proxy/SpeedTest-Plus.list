@@ -1,0 +1,9 @@
+# SpeedTest-Plus
+DOMAIN-SUFFIX,shunicomtest.com
+DOMAIN-SUFFIX,atcc-gns.net
+DOMAIN-SUFFIX,spacecore.pro
+DOMAIN-SUFFIX,mbspeed.net
+DOMAIN-SUFFIX,fdcservers.net
+DOMAIN-SUFFIX,sparcs.net
+IP-CIDR,27.0.31.50/32
+IP-CIDR,46.250.248.56/32
