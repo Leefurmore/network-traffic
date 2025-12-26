@@ -1,0 +1,5 @@
+# SpeedTest-Plus
+payload:
+  - DOMAIN-SUFFIX,shunicomtest.com
+  - DOMAIN-SUFFIX,atcc-gns.net
+  - DOMAIN-SUFFIX,spacecore.pro
