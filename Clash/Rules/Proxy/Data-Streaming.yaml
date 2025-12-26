@@ -1,5 +1,4 @@
 # Data-Streaming
 payload:
-  - DOMAIN-SUFFIX,music.youtube.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,files.imgtu.top
