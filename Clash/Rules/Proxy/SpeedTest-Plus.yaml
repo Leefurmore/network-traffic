@@ -3,3 +3,6 @@ payload:
   - DOMAIN-SUFFIX,shunicomtest.com
   - DOMAIN-SUFFIX,atcc-gns.net
   - DOMAIN-SUFFIX,spacecore.pro
+  - DOMAIN-SUFFIX,mbspeed.net
+  - DOMAIN-SUFFIX,fdcservers.net
+  - DOMAIN-SUFFIX,sparcs.net
