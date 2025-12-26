@@ -3,5 +3,3 @@ payload:
   - DOMAIN-SUFFIX,music.youtube.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,files.imgtu.top
-  - DOMAIN-SUFFIX,docker.io
-  - DOMAIN-SUFFIX,ghcr.io
