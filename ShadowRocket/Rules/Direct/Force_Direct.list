@@ -50,6 +50,13 @@ IP-CIDR,ff00::/8
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,dns.pub
 
+# Server
+DOMAIN,d2yetrest76cgq.cloudfront.net
+DOMAIN,d3imkrqdrly8oc.cloudfront.net
+DOMAIN,pages.dev
+DOMAIN,cloudflareclient.com
+DOMAIN,cl-gl73913af6.gcdn.co
+
 # CN Site
 DOMAIN-KEYWORD,china
 DOMAIN-SUFFIX,cn

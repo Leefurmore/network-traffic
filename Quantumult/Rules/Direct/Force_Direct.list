@@ -50,6 +50,13 @@ IP6-CIDR,ff00::/8,Force_Direct
 HOST-SUFFIX,dns.alidns.com,Force_Direct
 HOST-SUFFIX,dns.pub,Force_Direct
 
+# Server
+HOST,d2yetrest76cgq.cloudfront.net,Force_Direct
+HOST,d3imkrqdrly8oc.cloudfront.net,Force_Direct
+HOST,pages.dev,Force_Direct
+HOST,cloudflareclient.com,Force_Direct
+HOST,cl-gl73913af6.gcdn.co,Force_Direct
+
 # CN Site
 HOST-KEYWORD,china,Force_Direct
 HOST-SUFFIX,cn,Force_Direct

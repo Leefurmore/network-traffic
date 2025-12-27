@@ -51,6 +51,13 @@ payload:
   - DOMAIN-SUFFIX,dns.alidns.com
   - DOMAIN-SUFFIX,dns.pub
 
+# Server
+  - DOMAIN,d2yetrest76cgq.cloudfront.net
+  - DOMAIN,d3imkrqdrly8oc.cloudfront.net
+  - DOMAIN,pages.dev
+  - DOMAIN,cloudflareclient.com
+  - DOMAIN,cl-gl73913af6.gcdn.co
+
 # CN Site
   - DOMAIN-KEYWORD,china
   - DOMAIN-SUFFIX,cn
@@ -126,8 +133,6 @@ payload:
   - DOMAIN-SUFFIX,wgn-v6.leefurmore.com
   - DOMAIN-SUFFIX,wgn-r5s.leefurmore.com
   - DOMAIN-SUFFIX,wgn-r5s-v6.leefurmore.com
-  - DOMAIN,d2yetrest76cgq.cloudfront.net
-  - DOMAIN,d3imkrqdrly8oc.cloudfront.net
 
 # Others
   - DOMAIN-SUFFIX,wd-gold.com
