@@ -55,6 +55,7 @@ payload:
   - DOMAIN,d2yetrest76cgq.cloudfront.net
   - DOMAIN,d3imkrqdrly8oc.cloudfront.net
   - DOMAIN,pages.dev
+  - DOMAIN,cloudflare.dev
   - DOMAIN,cloudflareclient.com
   - DOMAIN,cl-gl73913af6.gcdn.co
 
