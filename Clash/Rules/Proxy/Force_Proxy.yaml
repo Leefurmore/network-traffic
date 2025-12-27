@@ -22,10 +22,10 @@ payload:
   - DOMAIN-SUFFIX,adguard-dns.com
 
 # Connectivity
-  - DOMAIN-SUFFIX,www.gstatic.com
-  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
-  - DOMAIN-SUFFIX,captive.apple.com
-  - DOMAIN-SUFFIX,cp.cloudflare.com
+  - DOMAIN,www.gstatic.com
+  - DOMAIN,connectivitycheck.gstatic.com
+  - DOMAIN,captive.apple.com
+  - DOMAIN,cp.cloudflare.com
 
 # T-Mobile
   - DOMAIN-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org
