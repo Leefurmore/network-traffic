@@ -54,15 +54,9 @@ payload:
 # Server
   - DOMAIN,d2yetrest76cgq.cloudfront.net
   - DOMAIN,d3imkrqdrly8oc.cloudfront.net
-  - DOMAIN,cf-gcp-u.leefurmore.com
-  - DOMAIN,cf-rn-u.leefurmore.com
   - DOMAIN,pages.dev
   - DOMAIN,cloudflareclient.com
-  - DOMAIN,speed.cloudflare.com
-  - DOMAIN,gc-gcp-u.leefurmore.com
-  - DOMAIN,gc-rn-u.leefurmore.com
   - DOMAIN,cl-gl73913af6.gcdn.co
-  - DOMAIN,speedtest.gcore.com
 
 # CN Site
   - DOMAIN-KEYWORD,china
