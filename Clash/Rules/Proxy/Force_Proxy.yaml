@@ -48,6 +48,12 @@ payload:
 
 # Rule-Supplement
   - DOMAIN-SUFFIX,leefurmore.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,aws.dev
+  - DOMAIN-SUFFIX,api.aws
+  - DOMAIN-SUFFIX,cloudflare.dev
+  - DOMAIN-SUFFIX,gcore.com
+  - DOMAIN-SUFFIX,gcore.pro
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN-SUFFIX,aptv.app
   - DOMAIN-SUFFIX,cleanmymac.com
@@ -61,10 +67,6 @@ payload:
   - DOMAIN-SUFFIX,moomooequity.com
   - DOMAIN-SUFFIX,moomootrustee.com
   - DOMAIN-SUFFIX,acsbapp.com
-  - DOMAIN-SUFFIX,cloudflare.dev
-  - DOMAIN-SUFFIX,api.aws
-  - DOMAIN-SUFFIX,aws.dev
-  - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,split.io
   - DOMAIN-SUFFIX,netdata.cloud
   - DOMAIN-SUFFIX,my-netdata.io

@@ -47,6 +47,12 @@ IP-ASN,21928,Force_Proxy
 
 # Rule-Supplement
 HOST-SUFFIX,leefurmore.com,Force_Proxy
+HOST-SUFFIX,amazonaws.com,Force_Proxy
+HOST-SUFFIX,aws.dev,Force_Proxy
+HOST-SUFFIX,api.aws,Force_Proxy
+HOST-SUFFIX,cloudflare.dev,Force_Proxy
+HOST-SUFFIX,gcore.com,Force_Proxy
+HOST-SUFFIX,gcore.pro,Force_Proxy
 HOST-SUFFIX,51zmt.top,Force_Proxy
 HOST-SUFFIX,aptv.app,Force_Proxy
 HOST-SUFFIX,cleanmymac.com,Force_Proxy
@@ -60,10 +66,6 @@ HOST-SUFFIX,moomoo.com,Force_Proxy
 HOST-SUFFIX,moomooequity.com,Force_Proxy
 HOST-SUFFIX,moomootrustee.com,Force_Proxy
 HOST-SUFFIX,acsbapp.com,Force_Proxy
-HOST-SUFFIX,cloudflare.dev,Force_Proxy
-HOST-SUFFIX,api.aws,Force_Proxy
-HOST-SUFFIX,aws.dev,Force_Proxy
-HOST-SUFFIX,amazonaws.com,Force_Proxy
 HOST-SUFFIX,split.io,Force_Proxy
 HOST-SUFFIX,netdata.cloud,Force_Proxy
 HOST-SUFFIX,my-netdata.io,Force_Proxy
