@@ -22,7 +22,6 @@ HOST-SUFFIX,adguard-dns.com,Force_Proxy
 
 # Connectivity
 HOST,www.gstatic.com,Force_Proxy
-HOST,connectivitycheck.gstatic.com,Force_Proxy
 HOST,captive.apple.com,Force_Proxy
 HOST,cp.cloudflare.com,Force_Proxy
 

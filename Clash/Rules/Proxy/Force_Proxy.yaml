@@ -23,7 +23,6 @@ payload:
 
 # Connectivity
   - DOMAIN,www.gstatic.com
-  - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN,captive.apple.com
   - DOMAIN,cp.cloudflare.com
 
