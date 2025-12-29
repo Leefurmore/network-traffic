@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.dev
   - DOMAIN-SUFFIX,gcore.com
   - DOMAIN-SUFFIX,gcore.pro
+  - DOMAIN-SUFFIX,racknerd.com
   - DOMAIN-SUFFIX,51zmt.top
   - DOMAIN-SUFFIX,aptv.app
   - DOMAIN-SUFFIX,cleanmymac.com

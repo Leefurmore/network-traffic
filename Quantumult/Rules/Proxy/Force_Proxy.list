@@ -53,6 +53,7 @@ HOST-SUFFIX,api.aws,Force_Proxy
 HOST-SUFFIX,cloudflare.dev,Force_Proxy
 HOST-SUFFIX,gcore.com,Force_Proxy
 HOST-SUFFIX,gcore.pro,Force_Proxy
+HOST-SUFFIX,racknerd.com,Force_Proxy
 HOST-SUFFIX,51zmt.top,Force_Proxy
 HOST-SUFFIX,aptv.app,Force_Proxy
 HOST-SUFFIX,cleanmymac.com,Force_Proxy
