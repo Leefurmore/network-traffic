@@ -49,6 +49,8 @@ IP6-CIDR,ff00::/8,Force_Direct
 # DNS
 HOST-SUFFIX,dns.alidns.com,Force_Direct
 HOST-SUFFIX,dns.pub,Force_Direct
+HOST-SUFFIX,doh.pub,Force_Direct
+HOST-SUFFIX,dot.pub,Force_Direct
 
 # Server
 HOST,d2yetrest76cgq.cloudfront.net,Force_Direct

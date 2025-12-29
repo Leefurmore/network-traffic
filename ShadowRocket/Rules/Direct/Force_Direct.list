@@ -49,6 +49,8 @@ IP-CIDR,ff00::/8
 # DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,dns.pub
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,dot.pub
 
 # Server
 DOMAIN,d2yetrest76cgq.cloudfront.net
