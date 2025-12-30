@@ -137,7 +137,6 @@ payload:
   - DOMAIN-SUFFIX,wgn-r5s-v6.leefurmore.com
 
 # Others
-#   - DOMAIN-SUFFIX,wd-gold.com
   - DOMAIN-SUFFIX,wd-turbo.com
   - DOMAIN-SUFFIX,wd-red.com
   - DOMAIN-SUFFIX,immortalwrt.org
