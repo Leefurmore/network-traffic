@@ -72,6 +72,8 @@ HOST,d3imkrqdrly8oc.cloudfront.net,Force_Direct
 HOST,pages.dev,Force_Direct
 HOST,cloudflareclient.com,Force_Direct
 HOST,cl-gl73913af6.gcdn.co,Force_Direct
+HOST,api.wd-red.com,Force_Direct
+HOST,api.yingtaowangluo.net,Force_Direct
 
 # CN Site
 HOST-KEYWORD,china,Force_Direct
@@ -150,8 +152,6 @@ HOST-SUFFIX,wgn-r5s.leefurmore.com,Force_Direct
 HOST-SUFFIX,wgn-r5s-v6.leefurmore.com,Force_Direct
 
 # Others
-HOST-SUFFIX,wd-turbo.com,Force_Direct
-HOST-SUFFIX,wd-red.com,Force_Direct
 HOST-SUFFIX,immortalwrt.org,Force_Direct
 HOST-SUFFIX,openwrt.ai,Force_Direct
 HOST-SUFFIX,delldisplaymanagermac.com,Force_Direct
