@@ -48,6 +48,19 @@ payload:
   - IP-CIDR6,ff00::/8
 
 # DNS
+# Cloudflare DNS
+  - IP-CIDR6,2606:4700:4700::1111/128
+  - IP-CIDR6,2606:4700:4700::1001/128
+
+# Google DNS
+  - IP-CIDR6,2001:4860:4860::8888/128
+  - IP-CIDR6,2001:4860:4860::8844/128
+
+# AdGuard DNS
+  - IP-CIDR6,2a10:50c0::1:ff/128
+  - IP-CIDR6,2a10:50c0::2:ff/128
+
+# China DNS
   - DOMAIN-SUFFIX,dns.alidns.com
   - DOMAIN-SUFFIX,dns.pub
   - DOMAIN-SUFFIX,doh.pub
