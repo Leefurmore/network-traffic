@@ -22,9 +22,10 @@ IP6-CIDR,2a10:50c0::2:ff/128,Force_Proxy
 HOST-SUFFIX,adguard-dns.com,Force_Proxy
 
 # Connectivity
-HOST,www.gstatic.com,Force_Proxy
-HOST,captive.apple.com,Force_Proxy
 HOST,cp.cloudflare.com,Force_Proxy
+HOST,www.gstatic.com,Force_Proxy
+HOST,connectivitycheck.gstatic.com,Force_Proxy
+HOST,captive.apple.com,Force_Proxy
 
 # T-Mobile
 HOST-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy

@@ -22,9 +22,10 @@ IP-CIDR,2a10:50c0::2:ff/128
 DOMAIN-SUFFIX,adguard-dns.com
 
 # Connectivity
-DOMAIN,www.gstatic.com
-DOMAIN,captive.apple.com
 DOMAIN,cp.cloudflare.com
+DOMAIN,www.gstatic.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,captive.apple.com
 
 # T-Mobile
 DOMAIN-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org
