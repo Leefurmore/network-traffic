@@ -68,14 +68,6 @@ payload:
   - IP-CIDR6,2a10:50c0::2:ff/128
 
 # Server
-  - DOMAIN,gcp-u.leefurmore.com
-  - DOMAIN,aws-gcp-u.leefurmore.com
-  - DOMAIN,cf-gcp-u.leefurmore.com
-  - DOMAIN,gc-gcp-u.leefurmore.com
-  - DOMAIN,rn-u.leefurmore.com
-  - DOMAIN,aws-rn-u.leefurmore.com
-  - DOMAIN,cf-rn-u.leefurmore.com
-  - DOMAIN,gc-rn-u.leefurmore.com
   - DOMAIN,d2yetrest76cgq.cloudfront.net
   - DOMAIN,d3imkrqdrly8oc.cloudfront.net
   - DOMAIN,pages.dev
