@@ -52,7 +52,18 @@ payload:
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,api.aws
+  - DOMAIN-SUFFIX,clrt.ai
   - DOMAIN-SUFFIX,cloudflare.dev
+  - DOMAIN-SUFFIX,adsrvr.org
+  - DOMAIN-SUFFIX,bizible.com
+  - DOMAIN-SUFFIX,casalemedia.com
+  - DOMAIN-SUFFIX,company-target.com
+  - DOMAIN-SUFFIX,demandbase.com
+  - DOMAIN-SUFFIX,mktoresp.com
+  - DOMAIN-SUFFIX,qualified.com
+  - DOMAIN-SUFFIX,rlcdn.com
+  - DOMAIN-SUFFIX,rubiconproject.com
+  - DOMAIN-SUFFIX,tremorhub.com
   - DOMAIN-SUFFIX,gcore.com
   - DOMAIN-SUFFIX,gcore.pro
   - DOMAIN-SUFFIX,racknerd.com
