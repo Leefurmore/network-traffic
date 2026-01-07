@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,kuaishou.com
   - DOMAIN-SUFFIX,douyu.com
   - DOMAIN-SUFFIX,huya.com
-  - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,iqiyi.com
   - DOMAIN-SUFFIX,youku.com
   - DOMAIN-SUFFIX,v.qq.com
