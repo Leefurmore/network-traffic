@@ -56,9 +56,11 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.dev
   - DOMAIN-SUFFIX,adsrvr.org
   - DOMAIN-SUFFIX,bizible.com
+  - DOMAIN-SUFFIX,bizibly.com
   - DOMAIN-SUFFIX,casalemedia.com
   - DOMAIN-SUFFIX,company-target.com
   - DOMAIN-SUFFIX,demandbase.com
+  - DOMAIN-SUFFIX,marketo.net
   - DOMAIN-SUFFIX,mktoresp.com
   - DOMAIN-SUFFIX,qualified.com
   - DOMAIN-SUFFIX,rlcdn.com

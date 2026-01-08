@@ -55,9 +55,11 @@ HOST-SUFFIX,clrt.ai,Force_Proxy
 HOST-SUFFIX,cloudflare.dev,Force_Proxy
 HOST-SUFFIX,adsrvr.org,Force_Proxy
 HOST-SUFFIX,bizible.com,Force_Proxy
+HOST-SUFFIX,bizibly.com,Force_Proxy
 HOST-SUFFIX,casalemedia.com,Force_Proxy
 HOST-SUFFIX,company-target.com,Force_Proxy
 HOST-SUFFIX,demandbase.com,Force_Proxy
+HOST-SUFFIX,marketo.net,Force_Proxy
 HOST-SUFFIX,mktoresp.com,Force_Proxy
 HOST-SUFFIX,qualified.com,Force_Proxy
 HOST-SUFFIX,rlcdn.com,Force_Proxy
