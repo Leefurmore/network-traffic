@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,leefurmore.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,api.aws
+DOMAIN-SUFFIX,signin.aws
 DOMAIN-SUFFIX,clrt.ai
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,adsrvr.org

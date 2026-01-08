@@ -51,6 +51,7 @@ HOST-SUFFIX,leefurmore.com,Force_Proxy
 HOST-SUFFIX,amazonaws.com,Force_Proxy
 HOST-SUFFIX,aws.dev,Force_Proxy
 HOST-SUFFIX,api.aws,Force_Proxy
+HOST-SUFFIX,signin.aws,Force_Proxy
 HOST-SUFFIX,clrt.ai,Force_Proxy
 HOST-SUFFIX,cloudflare.dev,Force_Proxy
 HOST-SUFFIX,adsrvr.org,Force_Proxy
