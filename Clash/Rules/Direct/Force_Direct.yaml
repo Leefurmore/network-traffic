@@ -81,14 +81,7 @@ payload:
   - IP-CIDR6,2a10:50c0::2:ff/128
 
 # Server
-  - DOMAIN,gcp-u.leefurmore.com
-  - DOMAIN,aws-gcp-u.leefurmore.com
-  - DOMAIN,cf-gcp-u.leefurmore.com
-  - DOMAIN,gc-gcp-u.leefurmore.com
-  - DOMAIN,rn-u.leefurmore.com
-  - DOMAIN,aws-rn-u.leefurmore.com
-  - DOMAIN,cf-rn-u.leefurmore.com
-  - DOMAIN,gc-rn-u.leefurmore.com
+  - DOMAIN-SUFFIX,leefurmore.com
   - DOMAIN,d2yetrest76cgq.cloudfront.net
   - DOMAIN,d3imkrqdrly8oc.cloudfront.net
   - DOMAIN,pages.dev
@@ -158,18 +151,6 @@ payload:
   - DOMAIN-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net
   - DOMAIN-SUFFIX,ns.itunes.apple.com
   - DOMAIN-SUFFIX,ns.itunes-apple.com.akadns.net
-
-# Personal
-  - DOMAIN-SUFFIX,alist.leefurmore.com
-  - DOMAIN-SUFFIX,alist-v6.leefurmore.com
-  - DOMAIN-SUFFIX,ha.leefurmore.com
-  - DOMAIN-SUFFIX,ha-v6.leefurmore.com
-  - DOMAIN-SUFFIX,nas.leefurmore.com
-  - DOMAIN-SUFFIX,nas-v6.leefurmore.com
-  - DOMAIN-SUFFIX,wgn.leefurmore.com
-  - DOMAIN-SUFFIX,wgn-v6.leefurmore.com
-  - DOMAIN-SUFFIX,wgn-r5s.leefurmore.com
-  - DOMAIN-SUFFIX,wgn-r5s-v6.leefurmore.com
 
 # Others
   - DOMAIN-SUFFIX,wd-red.com

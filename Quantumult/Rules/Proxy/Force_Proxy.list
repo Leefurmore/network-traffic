@@ -47,7 +47,6 @@ HOST-KEYWORD,tmobile,Force_Proxy
 IP-ASN,21928,Force_Proxy
 
 # Rule-Supplement
-HOST-SUFFIX,leefurmore.com,Force_Proxy
 HOST-SUFFIX,amazonaws.com,Force_Proxy
 HOST-SUFFIX,aws.dev,Force_Proxy
 HOST-SUFFIX,api.aws,Force_Proxy
