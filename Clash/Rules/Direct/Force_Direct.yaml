@@ -83,7 +83,6 @@ payload:
 # Server
   - DOMAIN-SUFFIX,leefurmore.com
   - DOMAIN,d2yetrest76cgq.cloudfront.net
-  - DOMAIN,d3imkrqdrly8oc.cloudfront.net
   - DOMAIN,d3rezogeioh4hp.cloudfront.net
   - DOMAIN,pages.dev
   - DOMAIN,cloudflareclient.com
@@ -153,7 +152,7 @@ payload:
   - DOMAIN-SUFFIX,ns.itunes.apple.com
   - DOMAIN-SUFFIX,ns.itunes-apple.com.akadns.net
 
-# Others
+# Rule-Supplement
   - DOMAIN-SUFFIX,wd-red.com
   - DOMAIN-SUFFIX,yingtaowangluo.net
   - DOMAIN-SUFFIX,immortalwrt.org

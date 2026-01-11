@@ -82,7 +82,7 @@ IP6-CIDR,2a10:50c0::2:ff/128,Force_Direct
 # Server
 HOST-SUFFIX,leefurmore.com,Force_Direct
 HOST,d2yetrest76cgq.cloudfront.net,Force_Direct
-HOST,d3imkrqdrly8oc.cloudfront.net,Force_Direct
+HOST,d3rezogeioh4hp.cloudfront.net,Force_Direct
 HOST,pages.dev,Force_Direct
 HOST,cloudflareclient.com,Force_Direct
 HOST,cl-gl73913af6.gcdn.co,Force_Direct
@@ -151,7 +151,7 @@ HOST-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net,Force_Direct
 HOST-SUFFIX,ns.itunes.apple.com,Force_Direct
 HOST-SUFFIX,ns.itunes-apple.com.akadns.net,Force_Direct
 
-# Others
+# Rule-Supplement
 HOST-SUFFIX,wd-red.com,Force_Direct
 HOST-SUFFIX,yingtaowangluo.net,Force_Direct
 HOST-SUFFIX,immortalwrt.org,Force_Direct
