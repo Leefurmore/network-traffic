@@ -86,6 +86,8 @@ HOST,d3rezogeioh4hp.cloudfront.net,Force_Direct
 HOST,pages.dev,Force_Direct
 HOST,cloudflareclient.com,Force_Direct
 HOST,cl-gl73913af6.gcdn.co,Force_Direct
+HOST,bn-gcp-u.b-cdn.net,Force_Direct
+HOST,bn-rn-u.b-cdn.net,Force_Direct
 
 # CN Site
 HOST-KEYWORD,china,Force_Direct
