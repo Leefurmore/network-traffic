@@ -157,6 +157,7 @@ HOST-SUFFIX,ns.itunes-apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,wd-red.com,Force_Direct
 HOST-SUFFIX,yingtaowangluo.net,Force_Direct
 HOST-SUFFIX,immortalwrt.org,Force_Direct
+HOST-SUFFIX,immortalwrt.kyarucloud.moe,Force_Direct
 HOST-SUFFIX,openwrt.ai,Force_Direct
 HOST-SUFFIX,logitech.io,Force_Direct
 HOST-SUFFIX,logitech.zendesk.com,Force_Direct
