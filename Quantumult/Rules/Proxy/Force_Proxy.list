@@ -59,8 +59,10 @@ HOST-SUFFIX,bizibly.com,Force_Proxy
 HOST-SUFFIX,casalemedia.com,Force_Proxy
 HOST-SUFFIX,company-target.com,Force_Proxy
 HOST-SUFFIX,demandbase.com,Force_Proxy
+HOST-SUFFIX,devmate.com,Force_Proxy
 HOST-SUFFIX,marketo.net,Force_Proxy
 HOST-SUFFIX,mktoresp.com,Force_Proxy
+HOST-SUFFIX,moonlock.com,Force_Proxy
 HOST-SUFFIX,qualified.com,Force_Proxy
 HOST-SUFFIX,rlcdn.com,Force_Proxy
 HOST-SUFFIX,rubiconproject.com,Force_Proxy

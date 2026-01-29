@@ -60,8 +60,10 @@ payload:
   - DOMAIN-SUFFIX,casalemedia.com
   - DOMAIN-SUFFIX,company-target.com
   - DOMAIN-SUFFIX,demandbase.com
+  - DOMAIN-SUFFIX,devmate.com
   - DOMAIN-SUFFIX,marketo.net
   - DOMAIN-SUFFIX,mktoresp.com
+  - DOMAIN-SUFFIX,moonlock.com
   - DOMAIN-SUFFIX,qualified.com
   - DOMAIN-SUFFIX,rlcdn.com
   - DOMAIN-SUFFIX,rubiconproject.com
