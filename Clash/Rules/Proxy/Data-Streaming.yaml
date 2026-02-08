@@ -1,7 +1,17 @@
 # Data-Streaming
 payload:
+# Youtube
   - DOMAIN-SUFFIX,googlevideo.com
+
+# Media
   - DOMAIN-SUFFIX,files.imgtu.top
+
+# IPTV
+  - IP-CIDR,63.141.239.226/32
+  - IP-CIDR,69.30.246.194/32
+  - IP-CIDR,74.91.26.218/32
+
+# Game
   - DOMAIN-SUFFIX,psgamedl.com
   - DOMAIN-SUFFIX,romsfast.com
   - DOMAIN-SUFFIX,romsforever.co
