@@ -10,6 +10,8 @@ payload:
   - IP-CIDR,63.141.239.226/32
   - IP-CIDR,69.30.246.194/32
   - IP-CIDR,74.91.26.218/32
+  - IP-CIDR,107.150.50.82/32
+  - IP-CIDR,192.187.123.50/32
 
 # Game
   - DOMAIN-SUFFIX,psgamedl.com
