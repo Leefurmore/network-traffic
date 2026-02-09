@@ -80,16 +80,6 @@ payload:
   - IP-CIDR6,2a10:50c0::1:ff/128
   - IP-CIDR6,2a10:50c0::2:ff/128
 
-# Server
-  - DOMAIN-SUFFIX,leefurmore.com
-  - DOMAIN,d2yetrest76cgq.cloudfront.net
-  - DOMAIN,d3rezogeioh4hp.cloudfront.net
-  - DOMAIN,pages.dev
-  - DOMAIN,cloudflareclient.com
-  - DOMAIN,cl-gl73913af6.gcdn.co
-  - DOMAIN,bn-gcp-u.b-cdn.net
-  - DOMAIN,bn-rn-u.b-cdn.net
-
 # CN Site
   - DOMAIN-KEYWORD,china
   - DOMAIN-SUFFIX,cn
@@ -155,6 +145,7 @@ payload:
   - DOMAIN-SUFFIX,ns.itunes-apple.com.akadns.net
 
 # Rule-Supplement
+  - DOMAIN-SUFFIX,leefurmore.com
   - DOMAIN-SUFFIX,wd-red.com
   - DOMAIN-SUFFIX,yingtaowangluo.net
   - DOMAIN-SUFFIX,immortalwrt.org
