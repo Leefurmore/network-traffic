@@ -9,3 +9,13 @@ payload:
   - DOMAIN,cl-gl73913af6.gcdn.co
   - DOMAIN,bn-gcp-u.b-cdn.net
   - DOMAIN,bn-rn-u.b-cdn.net
+
+  - DOMAIN,aws-gcp-u.leefurmore.com
+  - DOMAIN,cf-gcp-u.leefurmore.com
+  - DOMAIN,gc-gcp-u.leefurmore.com
+  - DOMAIN,bn-gcp-u.leefurmore.com
+
+  - DOMAIN,aws-rn-u.leefurmore.com
+  - DOMAIN,cf-rn-u.leefurmore.com
+  - DOMAIN,gc-rn-u.leefurmore.com
+  - DOMAIN,bn-rn-u.leefurmore.com
