@@ -80,6 +80,18 @@ payload:
   - IP-CIDR6,2a10:50c0::1:ff/128
   - IP-CIDR6,2a10:50c0::2:ff/128
 
+# Personal
+  - DOMAIN,alist.leefurmore.com
+  - DOMAIN,ha.leefurmore.com
+  - DOMAIN,nas.leefurmore.com
+  - DOMAIN,wgn.leefurmore.com
+  - DOMAIN,wgn-r5s.leefurmore.com
+  - DOMAIN,alist-v6.leefurmore.com
+  - DOMAIN,ha-v6.leefurmore.com
+  - DOMAIN,nas-v6.leefurmore.com
+  - DOMAIN,wgn-v6.leefurmore.com
+  - DOMAIN,wgn-r5s-v6.leefurmore.com
+
 # CN Site
   - DOMAIN-KEYWORD,china
   - DOMAIN-SUFFIX,cn
@@ -88,31 +100,6 @@ payload:
   - DOMAIN-SUFFIX,cn.gov
   - DOMAIN-SUFFIX,cn.org
   - DOMAIN-SUFFIX,cn.edu
-
-# BT
-  - DOMAIN-SUFFIX,awesome-hd.me
-  - DOMAIN-SUFFIX,broadcasthe.net
-  - DOMAIN-SUFFIX,chdbits.co
-  - DOMAIN-SUFFIX,classix-unlimited.co.uk
-  - DOMAIN-SUFFIX,empornium.me
-  - DOMAIN-SUFFIX,gazellegames.net
-  - DOMAIN-SUFFIX,hdchina.org
-  - DOMAIN-SUFFIX,hdsky.me
-  - DOMAIN-SUFFIX,icetorrent.org
-  - DOMAIN-SUFFIX,jpopsuki.eu
-  - DOMAIN-SUFFIX,keepfrds.com
-  - DOMAIN-SUFFIX,madsrevolution.net
-  - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,nanyangpt.com
-  - DOMAIN-SUFFIX,ncore.cc
-  - DOMAIN-SUFFIX,open.cd
-  - DOMAIN-SUFFIX,ourbits.club
-  - DOMAIN-SUFFIX,passthepopcorn.me
-  - DOMAIN-SUFFIX,privatehd.to
-  - DOMAIN-SUFFIX,redacted.ch
-  - DOMAIN-SUFFIX,springsunday.net
-  - DOMAIN-SUFFIX,tjupt.org
-  - DOMAIN-SUFFIX,totheglory.im
 
 # Windows Network
   - DOMAIN-SUFFIX,msftconnecttest.com
@@ -145,7 +132,6 @@ payload:
   - DOMAIN-SUFFIX,ns.itunes-apple.com.akadns.net
 
 # Rule-Supplement
-  - DOMAIN-SUFFIX,leefurmore.com
   - DOMAIN-SUFFIX,wd-red.com
   - DOMAIN-SUFFIX,yingtaowangluo.net
   - DOMAIN-SUFFIX,immortalwrt.org

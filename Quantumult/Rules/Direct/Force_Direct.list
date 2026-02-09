@@ -79,6 +79,18 @@ IP6-CIDR,2001:4860:4860::8844/128,Force_Direct
 IP6-CIDR,2a10:50c0::1:ff/128,Force_Direct
 IP6-CIDR,2a10:50c0::2:ff/128,Force_Direct
 
+# Personal
+HOST,alist.leefurmore.com,Force_Direct
+HOST,ha.leefurmore.com,Force_Direct
+HOST,nas.leefurmore.com,Force_Direct
+HOST,wgn.leefurmore.com,Force_Direct
+HOST,wgn-r5s.leefurmore.com,Force_Direct
+HOST,alist-v6.leefurmore.com,Force_Direct
+HOST,ha-v6.leefurmore.com,Force_Direct
+HOST,nas-v6.leefurmore.com,Force_Direct
+HOST,wgn-v6.leefurmore.com,Force_Direct
+HOST,wgn-r5s-v6.leefurmore.com,Force_Direct
+
 # CN Site
 HOST-KEYWORD,china,Force_Direct
 HOST-SUFFIX,cn,Force_Direct
@@ -87,31 +99,6 @@ HOST-SUFFIX,cn.net,Force_Direct
 HOST-SUFFIX,cn.gov,Force_Direct
 HOST-SUFFIX,cn.org,Force_Direct
 HOST-SUFFIX,cn.edu,Force_Direct
-
-# BT
-HOST-SUFFIX,awesome-hd.me,Force_Direct
-HOST-SUFFIX,broadcasthe.net,Force_Direct
-HOST-SUFFIX,chdbits.co,Force_Direct
-HOST-SUFFIX,classix-unlimited.co.uk,Force_Direct
-HOST-SUFFIX,empornium.me,Force_Direct
-HOST-SUFFIX,gazellegames.net,Force_Direct
-HOST-SUFFIX,hdchina.org,Force_Direct
-HOST-SUFFIX,hdsky.me,Force_Direct
-HOST-SUFFIX,icetorrent.org,Force_Direct
-HOST-SUFFIX,jpopsuki.eu,Force_Direct
-HOST-SUFFIX,keepfrds.com,Force_Direct
-HOST-SUFFIX,madsrevolution.net,Force_Direct
-HOST-SUFFIX,m-team.cc,Force_Direct
-HOST-SUFFIX,nanyangpt.com,Force_Direct
-HOST-SUFFIX,ncore.cc,Force_Direct
-HOST-SUFFIX,open.cd,Force_Direct
-HOST-SUFFIX,ourbits.club,Force_Direct
-HOST-SUFFIX,passthepopcorn.me,Force_Direct
-HOST-SUFFIX,privatehd.to,Force_Direct
-HOST-SUFFIX,redacted.ch,Force_Direct
-HOST-SUFFIX,springsunday.net,Force_Direct
-HOST-SUFFIX,tjupt.org,Force_Direct
-HOST-SUFFIX,totheglory.im,Force_Direct
 
 # Windows Network
 HOST-SUFFIX,msftconnecttest.com,Force_Direct
@@ -144,7 +131,6 @@ HOST-SUFFIX,ns.itunes.apple.com,Force_Direct
 HOST-SUFFIX,ns.itunes-apple.com.akadns.net,Force_Direct
 
 # Rule-Supplement
-HOST-SUFFIX,leefurmore.com,Force_Direct
 HOST-SUFFIX,wd-red.com,Force_Direct
 HOST-SUFFIX,yingtaowangluo.net,Force_Direct
 HOST-SUFFIX,immortalwrt.org,Force_Direct

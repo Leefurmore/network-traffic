@@ -48,6 +48,7 @@ payload:
   - IP-ASN,21928
 
 # Rule-Supplement
+  - DOMAIN-SUFFIX,leefurmore.com
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,aws.dev
   - DOMAIN-SUFFIX,api.aws
