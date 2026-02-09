@@ -79,6 +79,27 @@ IP-CIDR,2001:4860:4860::8844/128
 IP-CIDR,2a10:50c0::1:ff/128
 IP-CIDR,2a10:50c0::2:ff/128
 
+# Server
+DOMAIN,d2yetrest76cgq.cloudfront.net
+DOMAIN,d3rezogeioh4hp.cloudfront.net
+DOMAIN,pages.dev
+DOMAIN,cloudflareclient.com
+DOMAIN,cl-gl73913af6.gcdn.co
+DOMAIN,bn-gcp-u.b-cdn.net
+DOMAIN,bn-rn-u.b-cdn.net
+
+DOMAIN,gcp-u.leefurmore.com
+DOMAIN,aws-gcp-u.leefurmore.com
+DOMAIN,cf-gcp-u.leefurmore.com
+DOMAIN,gc-gcp-u.leefurmore.com
+DOMAIN,bn-gcp-u.leefurmore.com
+
+DOMAIN,rn-u.leefurmore.com
+DOMAIN,aws-rn-u.leefurmore.com
+DOMAIN,cf-rn-u.leefurmore.com
+DOMAIN,gc-rn-u.leefurmore.com
+DOMAIN,bn-rn-u.leefurmore.com
+
 # Personal
 DOMAIN,alist.leefurmore.com
 DOMAIN,ha.leefurmore.com

@@ -79,6 +79,27 @@ IP6-CIDR,2001:4860:4860::8844/128,Force_Direct
 IP6-CIDR,2a10:50c0::1:ff/128,Force_Direct
 IP6-CIDR,2a10:50c0::2:ff/128,Force_Direct
 
+# Server
+HOST,d2yetrest76cgq.cloudfront.net,Force_Direct
+HOST,d3rezogeioh4hp.cloudfront.net,Force_Direct
+HOST,pages.dev,Force_Direct
+HOST,cloudflareclient.com,Force_Direct
+HOST,cl-gl73913af6.gcdn.co,Force_Direct
+HOST,bn-gcp-u.b-cdn.net,Force_Direct
+HOST,bn-rn-u.b-cdn.net,Force_Direct
+
+HOST,gcp-u.leefurmore.com,Force_Direct
+HOST,aws-gcp-u.leefurmore.com,Force_Direct
+HOST,cf-gcp-u.leefurmore.com,Force_Direct
+HOST,gc-gcp-u.leefurmore.com,Force_Direct
+HOST,bn-gcp-u.leefurmore.com,Force_Direct
+
+HOST,rn-u.leefurmore.com,Force_Direct
+HOST,aws-rn-u.leefurmore.com,Force_Direct
+HOST,cf-rn-u.leefurmore.com,Force_Direct
+HOST,gc-rn-u.leefurmore.com,Force_Direct
+HOST,bn-rn-u.leefurmore.com,Force_Direct
+
 # Personal
 HOST,alist.leefurmore.com,Force_Direct
 HOST,ha.leefurmore.com,Force_Direct
