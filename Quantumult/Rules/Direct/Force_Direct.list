@@ -138,11 +138,11 @@ HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,mesu-china.apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,mesu.apple.com.w.cdngslb.com,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com,Force_Direct
+HOST-SUFFIX,updates.g.aaplimg.com,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com.mwcname.com,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com.download.ks-cdn.com,Force_Direct
 HOST-SUFFIX,updates.cdn-apple.com.w.kunlunca.com,Force_Direct
-HOST-SUFFIX,updates.g.aaplimg.com,Force_Direct
 HOST-SUFFIX,swscan.apple.com,Force_Direct
 HOST-SUFFIX,swscan.apple.com.download.ks-cdn.com,Force_Direct
 HOST-SUFFIX,swscan-cdn.apple.com.akadns.net,Force_Direct
@@ -160,9 +160,9 @@ HOST-SUFFIX,itunes-apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,ns.itunes.apple.com,Force_Direct
 HOST-SUFFIX,ns.itunes-apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,iosapps.itunes.apple.com,Force_Direct
+HOST-SUFFIX,iosapps.itunes.g.aaplimg.com,Force_Direct
 HOST-SUFFIX,iosapps.itunes.apple.com.download.ks-cdn.com,Force_Direct
 HOST-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net,Force_Direct
-HOST-SUFFIX,iosapps.itunes.g.aaplimg.com,Force_Direct
 HOST-SUFFIX,ioshost.qtlcdn.com,Force_Direct
 HOST-SUFFIX,appledownload.qtlcdn.com,Force_Direct
 HOST-SUFFIX,gslb.ksyuncdn.com,Force_Direct

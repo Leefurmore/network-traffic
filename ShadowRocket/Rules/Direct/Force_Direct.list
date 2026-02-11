@@ -138,11 +138,11 @@ DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu.apple.com.w.cdngslb.com
 DOMAIN-SUFFIX,updates.cdn-apple.com
+DOMAIN-SUFFIX,updates.g.aaplimg.com
 DOMAIN-SUFFIX,updates.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,updates.cdn-apple.com.mwcname.com
 DOMAIN-SUFFIX,updates.cdn-apple.com.download.ks-cdn.com
 DOMAIN-SUFFIX,updates.cdn-apple.com.w.kunlunca.com
-DOMAIN-SUFFIX,updates.g.aaplimg.com
 DOMAIN-SUFFIX,swscan.apple.com
 DOMAIN-SUFFIX,swscan.apple.com.download.ks-cdn.com
 DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
@@ -160,9 +160,9 @@ DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,ns.itunes.apple.com
 DOMAIN-SUFFIX,ns.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,iosapps.itunes.apple.com.download.ks-cdn.com
 DOMAIN-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net
-DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,ioshost.qtlcdn.com
 DOMAIN-SUFFIX,appledownload.qtlcdn.com
 DOMAIN-SUFFIX,gslb.ksyuncdn.com
