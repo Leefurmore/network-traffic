@@ -113,18 +113,24 @@ payload:
   - DOMAIN-SUFFIX,time.nist.gov
 
 # Apple Software Update
+  - DOMAIN-SUFFIX,mesu.apple.com
   - DOMAIN-SUFFIX,updates.cdn-apple.com
   - DOMAIN-SUFFIX,updates.cdn-apple.com.akadns.net
   - DOMAIN-SUFFIX,updates.g.aaplimg.com
   - DOMAIN-SUFFIX,updates.cdn-apple.com.download.ks-cdn.com
   - DOMAIN-SUFFIX,updates.cdn-apple.com.w.kunlunca.com
-  - DOMAIN-SUFFIX,gslb.ksyuncdn.com
   - DOMAIN-SUFFIX,swscan.apple.com
   - DOMAIN-SUFFIX,swscan-cdn.apple.com.akadns.net
+  - DOMAIN-SUFFIX,swscan-cdn-cn.apple.com.akadns.net
+  - DOMAIN-SUFFIX,swscan.apple.com.download.ks-cdn.com
+  - DOMAIN-SUFFIX,gslb.ksyuncdn.com
+  - DOMAIN-SUFFIX,swdist.apple.com
+  - DOMAIN-SUFFIX,swquery.apple.com
+  - DOMAIN-SUFFIX,swdownload.apple.com
   - DOMAIN-SUFFIX,swdist.apple.com.edgekey.net
-  - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,swcdn.apple.com
   - DOMAIN-SUFFIX,swcdn.g.aaplimg.com
+  - DOMAIN-SUFFIX,appledownload.qtlcdn.com
   - DOMAIN-SUFFIX,iosapps.itunes.apple.com
   - DOMAIN-SUFFIX,iosapps.itunes.g.aaplimg.com
   - DOMAIN-SUFFIX,iosapps.itunes.apple.com.m.alikunlun.net
