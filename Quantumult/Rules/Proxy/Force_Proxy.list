@@ -102,3 +102,5 @@ HOST-SUFFIX,wallpaperswide.com,Force_Proxy
 HOST-SUFFIX,ddsrem.com,Force_Proxy
 HOST-SUFFIX,pansearch.me,Force_Proxy
 HOST-SUFFIX,oplist.org,Force_Proxy
+HOST-SUFFIX,mixpanel.com,Force_Proxy
+HOST-SUFFIX,scorecardresearch.com,Force_Proxy
