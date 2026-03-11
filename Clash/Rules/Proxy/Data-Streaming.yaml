@@ -3,14 +3,10 @@ payload:
 # Youtube
   - DOMAIN-SUFFIX,googlevideo.com
 
-# Media
+# Other Media
   - DOMAIN-SUFFIX,files.imgtu.top
 
-# IPTV
-  - IP-CIDR,69.30.246.194/32
-  - IP-CIDR,74.91.26.218/32
-
-# Game
+# Game Download
   - DOMAIN-SUFFIX,psgamedl.com
   - DOMAIN-SUFFIX,romsfast.com
   - DOMAIN-SUFFIX,romsforever.co
