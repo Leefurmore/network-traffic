@@ -4,7 +4,7 @@ payload:
   - DOMAIN-SUFFIX,googlevideo.com
 
 # Other Media
-  - DOMAIN-SUFFIX,files.imgtu.top
+  - DOMAIN-SUFFIX,imgtu.top
 
 # Game Download
   - DOMAIN-SUFFIX,psgamedl.com
