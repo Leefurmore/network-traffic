@@ -27,27 +27,9 @@ HOST,www.gstatic.com,Force_Proxy
 HOST,connectivitycheck.gstatic.com,Force_Proxy
 HOST,captive.apple.com,Force_Proxy
 
-# T-Mobile
-HOST-SUFFIX,config.rcs.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,config.rcs.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,ss.epdg.epc.geo.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,epdg.epc.geo.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,ss.epdg.epc.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,mnc240.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,mnc260.mcc310.pub.3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,3gppnetwork.org,Force_Proxy
-HOST-SUFFIX,t-mobile.com,Force_Proxy
-HOST-SUFFIX,tmobile.com,Force_Proxy
-HOST-KEYWORD,tmobile,Force_Proxy
-IP-ASN,21928,Force_Proxy
-
 # Rule-Supplement
-HOST-SUFFIX,leefurmore.com,Force_Proxy
+HOST-SUFFIX,tmobile.com,Force_Proxy
+HOST-SUFFIX,t-mobile.com,Force_Proxy
 HOST-SUFFIX,amazonaws.com,Force_Proxy
 HOST-SUFFIX,aws.dev,Force_Proxy
 HOST-SUFFIX,api.aws,Force_Proxy

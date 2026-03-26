@@ -20,6 +20,3 @@ payload:
   - DOMAIN,cf-rn-u.leefurmore.com
   - DOMAIN,gc-rn-u.leefurmore.com
   - DOMAIN,bn-rn-u.leefurmore.com
-
-# Special
-  - DOMAIN-SUFFIX,3gppnetwork.org

@@ -101,16 +101,8 @@ HOST,gc-rn-u.leefurmore.com,Force_Direct
 HOST,bn-rn-u.leefurmore.com,Force_Direct
 
 # Personal
-HOST,alist.leefurmore.com,Force_Direct
-HOST,ha.leefurmore.com,Force_Direct
-HOST,nas.leefurmore.com,Force_Direct
-HOST,wgn.leefurmore.com,Force_Direct
-HOST,wgn-r5s.leefurmore.com,Force_Direct
-HOST,alist-v6.leefurmore.com,Force_Direct
-HOST,ha-v6.leefurmore.com,Force_Direct
-HOST,nas-v6.leefurmore.com,Force_Direct
-HOST,wgn-v6.leefurmore.com,Force_Direct
-HOST,wgn-r5s-v6.leefurmore.com,Force_Direct
+HOST-SUFFIX,leefurmore.com,Force_Direct
+HOST-SUFFIX,3gppnetwork.org,Force_Direct
 
 # CN Site
 HOST-KEYWORD,china,Force_Direct
