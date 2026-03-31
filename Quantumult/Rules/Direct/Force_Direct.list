@@ -88,6 +88,9 @@ HOST,cl-gl73913af6.gcdn.co,Force_Direct
 HOST,bn-gcp-u.b-cdn.net,Force_Direct
 HOST,bn-rn-u.b-cdn.net,Force_Direct
 
+HOST,gcp-a.leefurmore.com,Force_Direct
+HOST,cf-gcp-a.leefurmore.com,Force_Direct
+
 HOST,gcp-u.leefurmore.com,Force_Direct
 HOST,aws-gcp-u.leefurmore.com,Force_Direct
 HOST,cf-gcp-u.leefurmore.com,Force_Direct
