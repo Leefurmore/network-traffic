@@ -83,6 +83,7 @@ IP-CIDR,2a10:50c0::2:ff/128
 DOMAIN,d2yetrest76cgq.cloudfront.net
 DOMAIN,d3rezogeioh4hp.cloudfront.net
 DOMAIN,pages.dev
+DOMAIN,cloudflare-ech.com
 DOMAIN,cloudflareclient.com
 DOMAIN,cl-gl73913af6.gcdn.co
 DOMAIN,bn-gcp-u.b-cdn.net
