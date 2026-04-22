@@ -1,6 +1,7 @@
 # Server_List
 payload:
 # Server
+  - DOMAIN,d1p3l8avfvl911.cloudfront.net
   - DOMAIN,d2yetrest76cgq.cloudfront.net
   - DOMAIN,d3rezogeioh4hp.cloudfront.net
   - DOMAIN,pages.dev
@@ -12,7 +13,9 @@ payload:
   - DOMAIN,bn-rn-u.b-cdn.net
 
   - DOMAIN,gcp-a.leefurmore.com
+  - DOMAIN,aws-gcp-a.leefurmore.com
   - DOMAIN,cf-gcp-a.leefurmore.com
+  - DOMAIN,gc-gcp-a.leefurmore.com
 
   - DOMAIN,gcp-u.leefurmore.com
   - DOMAIN,aws-gcp-u.leefurmore.com
