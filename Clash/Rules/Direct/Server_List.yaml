@@ -4,7 +4,6 @@ payload:
   - DOMAIN,d1p3l8avfvl911.cloudfront.net
   - DOMAIN,d2yetrest76cgq.cloudfront.net
   - DOMAIN,d3rezogeioh4hp.cloudfront.net
-  - DOMAIN,pages.dev
   - DOMAIN,trycloudflare.com
   - DOMAIN,cloudflare-ech.com
   - DOMAIN,cloudflareclient.com
