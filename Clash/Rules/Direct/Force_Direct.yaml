@@ -175,7 +175,12 @@ payload:
 # AD
   - DOMAIN-SUFFIX,adkwai.com
   - DOMAIN-SUFFIX,adukwai.com
+  - DOMAIN-SUFFIX,adwangmai.com
   - DOMAIN-SUFFIX,getui.com
   - DOMAIN-SUFFIX,ugdtimg.com
+  - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,tanx.com
   - DOMAIN-SUFFIX,kuaishouzt.com
+  - DOMAIN-SUFFIX,beizi.biz
+  - DOMAIN-SUFFIX,cpatrk.net
+  - DOMAIN-SUFFIX,cdn.1rtb.com
