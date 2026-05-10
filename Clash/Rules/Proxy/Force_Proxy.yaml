@@ -23,10 +23,10 @@ payload:
   - DOMAIN-SUFFIX,adguard-dns.com
 
 # Connectivity
-  - DOMAIN,cp.cloudflare.com
-  - DOMAIN,www.gstatic.com
-  - DOMAIN,connectivitycheck.gstatic.com
-  - DOMAIN,captive.apple.com
+#  - DOMAIN,cp.cloudflare.com
+#  - DOMAIN,www.gstatic.com
+#  - DOMAIN,connectivitycheck.gstatic.com
+#  - DOMAIN,captive.apple.com
 
 # Rule-Supplement
   - DOMAIN-SUFFIX,tmobile.com
