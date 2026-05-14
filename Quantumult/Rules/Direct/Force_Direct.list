@@ -179,9 +179,8 @@ HOST-SUFFIX,delldisplaymanagerwindows.com,Force_Direct
 HOST-SUFFIX,dyndns.com,Force_Direct
 HOST-SUFFIX,home-assistant.io,Force_Direct
 HOST-SUFFIX,ugreengroup.com,Force_Direct
+HOST-SUFFIX,syncthing.net,Force_Direct
 HOST-SUFFIX,istoreos.com,Force_Direct
-HOST-SUFFIX,discovery-v4.syncthing.net,Force_Direct
-HOST-SUFFIX,discovery-v6.syncthing.net,Force_Direct
 HOST-SUFFIX,shuhua.com,Force_Direct
 HOST-SUFFIX,api.themoviedb.org,Force_Direct
 HOST-SUFFIX,test-ipv6.com,Force_Direct

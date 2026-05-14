@@ -152,9 +152,8 @@ payload:
   - DOMAIN-SUFFIX,dyndns.com
   - DOMAIN-SUFFIX,home-assistant.io
   - DOMAIN-SUFFIX,ugreengroup.com
+  - DOMAIN-SUFFIX,syncthing.net
   - DOMAIN-SUFFIX,istoreos.com
-  - DOMAIN-SUFFIX,discovery-v4.syncthing.net
-  - DOMAIN-SUFFIX,discovery-v6.syncthing.net
   - DOMAIN-SUFFIX,shuhua.com
   - DOMAIN-SUFFIX,api.themoviedb.org
   - DOMAIN-SUFFIX,test-ipv6.com
