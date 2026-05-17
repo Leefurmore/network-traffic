@@ -170,6 +170,7 @@ payload:
   - DOMAIN-SUFFIX,xycdn.com
   - DOMAIN-SUFFIX,blip.net
   - DOMAIN-SUFFIX,jddebug.com
+  - DOMAIN-SUFFIX,effirst.com
 
 # AD
   - DOMAIN-SUFFIX,adkwai.com
