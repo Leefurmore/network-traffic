@@ -196,8 +196,10 @@ HOST-SUFFIX,dutils.com,Force_Direct
 HOST-SUFFIX,mob.com,Force_Direct
 HOST-SUFFIX,xycdn.com,Force_Direct
 HOST-SUFFIX,blip.net,Force_Direct
+HOST-SUFFIX,kuaishouzt.com,Force_Direct
 HOST-SUFFIX,jddebug.com,Force_Direct
 HOST-SUFFIX,effirst.com,Force_Direct
+HOST-SUFFIX,ctobsnssdk.com,Force_Direct
 
 # AD
 HOST-SUFFIX,adkwai.com,Force_Direct
@@ -207,7 +209,6 @@ HOST-SUFFIX,getui.com,Force_Direct
 HOST-SUFFIX,ugdtimg.com,Force_Direct
 HOST-SUFFIX,gdtimg.com,Force_Direct
 HOST-SUFFIX,tanx.com,Force_Direct
-HOST-SUFFIX,kuaishouzt.com,Force_Direct
 HOST-SUFFIX,beizi.biz,Force_Direct
 HOST-SUFFIX,cpatrk.net,Force_Direct
-HOST-SUFFIX,cdn.1rtb.com,Force_Direct
+HOST-SUFFIX,1rtb.com,Force_Direct

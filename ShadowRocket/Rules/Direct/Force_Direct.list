@@ -196,8 +196,10 @@ DOMAIN-SUFFIX,dutils.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,blip.net
+DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,effirst.com
+DOMAIN-SUFFIX,ctobsnssdk.com
 
 # AD
 DOMAIN-SUFFIX,adkwai.com
@@ -207,7 +209,6 @@ DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,tanx.com
-DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,beizi.biz
 DOMAIN-SUFFIX,cpatrk.net
-DOMAIN-SUFFIX,cdn.1rtb.com
+DOMAIN-SUFFIX,1rtb.com
