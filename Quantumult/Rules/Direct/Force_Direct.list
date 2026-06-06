@@ -91,17 +91,23 @@ HOST,bn-gcp-u.b-cdn.net,Force_Direct
 HOST,bn-rn-u.b-cdn.net,Force_Direct
 
 HOST,gcp-a.leefurmore.com,Force_Direct
+HOST,gcp-a-tr.leefurmore.com,Force_Direct
+HOST,gcp-a-xr.leefurmore.com,Force_Direct
 HOST,aws-gcp-a.leefurmore.com,Force_Direct
 HOST,cf-gcp-a.leefurmore.com,Force_Direct
 HOST,gc-gcp-a.leefurmore.com,Force_Direct
 
 HOST,gcp-u.leefurmore.com,Force_Direct
+HOST,gcp-u-tr.leefurmore.com,Force_Direct
+HOST,gcp-u-xr.leefurmore.com,Force_Direct
 HOST,aws-gcp-u.leefurmore.com,Force_Direct
 HOST,cf-gcp-u.leefurmore.com,Force_Direct
 HOST,gc-gcp-u.leefurmore.com,Force_Direct
 HOST,bn-gcp-u.leefurmore.com,Force_Direct
 
 HOST,rn-u.leefurmore.com,Force_Direct
+HOST,rn-u-tr.leefurmore.com,Force_Direct
+HOST,rn-u-xr.leefurmore.com,Force_Direct
 HOST,aws-rn-u.leefurmore.com,Force_Direct
 HOST,cf-rn-u.leefurmore.com,Force_Direct
 HOST,gc-rn-u.leefurmore.com,Force_Direct

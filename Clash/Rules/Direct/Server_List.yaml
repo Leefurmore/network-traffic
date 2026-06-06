@@ -12,17 +12,23 @@ payload:
   - DOMAIN,bn-rn-u.b-cdn.net
 
   - DOMAIN,gcp-a.leefurmore.com
+  - DOMAIN,gcp-a-tr.leefurmore.com
+  - DOMAIN,gcp-a-xr.leefurmore.com
   - DOMAIN,aws-gcp-a.leefurmore.com
   - DOMAIN,cf-gcp-a.leefurmore.com
   - DOMAIN,gc-gcp-a.leefurmore.com
 
   - DOMAIN,gcp-u.leefurmore.com
+  - DOMAIN,gcp-u-tr.leefurmore.com
+  - DOMAIN,gcp-u-xr.leefurmore.com
   - DOMAIN,aws-gcp-u.leefurmore.com
   - DOMAIN,cf-gcp-u.leefurmore.com
   - DOMAIN,gc-gcp-u.leefurmore.com
   - DOMAIN,bn-gcp-u.leefurmore.com
 
   - DOMAIN,rn-u.leefurmore.com
+  - DOMAIN,rn-u-tr.leefurmore.com
+  - DOMAIN,rn-u-xr.leefurmore.com
   - DOMAIN,aws-rn-u.leefurmore.com
   - DOMAIN,cf-rn-u.leefurmore.com
   - DOMAIN,gc-rn-u.leefurmore.com
