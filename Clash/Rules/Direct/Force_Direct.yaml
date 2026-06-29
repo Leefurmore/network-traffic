@@ -168,6 +168,7 @@ payload:
   - DOMAIN-SUFFIX,mob.com
   - DOMAIN-SUFFIX,xycdn.com
   - DOMAIN-SUFFIX,blip.net
+  - DOMAIN-SUFFIX,readest.com
   - DOMAIN-SUFFIX,kuaishouzt.com
   - DOMAIN-SUFFIX,jddebug.com
   - DOMAIN-SUFFIX,effirst.com
