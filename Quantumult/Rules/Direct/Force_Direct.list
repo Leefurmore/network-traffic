@@ -26,7 +26,12 @@ IP-CIDR,127.0.0.0/8,Force_Direct
 IP-CIDR,169.254.0.0/16,Force_Direct
 IP-CIDR,172.16.0.0/12,Force_Direct
 IP-CIDR,192.0.0.0/24,Force_Direct
+IP-CIDR,192.0.2.0/24,Force_Direct
+IP-CIDR,192.88.99.0/24,Force_Direct
 IP-CIDR,192.168.0.0/16,Force_Direct
+IP-CIDR,198.18.0.0/15,Force_Direct
+IP-CIDR,198.51.100.0/24,Force_Direct
+IP-CIDR,203.0.113.0/24,Force_Direct
 IP-CIDR,224.0.0.0/4,Force_Direct
 IP-CIDR,240.0.0.0/4,Force_Direct
 IP-CIDR,255.255.255.255/32,Force_Direct
@@ -42,7 +47,6 @@ IP6-CIDR,2001:20::/28,Force_Direct
 IP6-CIDR,2001:db8::/32,Force_Direct
 IP6-CIDR,2002::/16,Force_Direct
 IP6-CIDR,fc00::/7,Force_Direct
-IP6-CIDR,fd00::/8,Force_Direct
 IP6-CIDR,fe80::/10,Force_Direct
 IP6-CIDR,ff00::/8,Force_Direct
 
