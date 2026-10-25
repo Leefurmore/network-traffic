@@ -146,6 +146,7 @@ HOST-SUFFIX,time.g.aaplimg.com,Force_Direct
 HOST-SUFFIX,time.nist.gov,Force_Direct
 
 # Apple Software Update
+HOST-SUFFIX,apps.apple.com,Force_Direct
 HOST-SUFFIX,mesu.apple.com,Force_Direct
 HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,Force_Direct
 HOST-SUFFIX,mesu-china.apple.com.akadns.net,Force_Direct

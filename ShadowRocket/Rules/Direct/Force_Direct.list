@@ -146,6 +146,7 @@ DOMAIN-SUFFIX,time.g.aaplimg.com
 DOMAIN-SUFFIX,time.nist.gov
 
 # Apple Software Update
+DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-china.apple.com.akadns.net
