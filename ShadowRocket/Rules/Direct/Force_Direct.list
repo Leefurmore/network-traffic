@@ -95,6 +95,7 @@ DOMAIN,trycloudflare.com
 DOMAIN,cloudflare-ech.com
 DOMAIN,cloudflareclient.com
 DOMAIN,cl-gl73913af6.gcdn.co
+DOMAIN,bn-gcp-a.b-cdn.net
 DOMAIN,bn-gcp-u.b-cdn.net
 DOMAIN,bn-rn-u.b-cdn.net
 
@@ -104,6 +105,8 @@ DOMAIN,gcp-a-xr.leefurmore.com
 DOMAIN,aws-gcp-a.leefurmore.com
 DOMAIN,cf-gcp-a.leefurmore.com
 DOMAIN,gc-gcp-a.leefurmore.com
+DOMAIN,bn-gcp-a.leefurmore.com
+DOMAIN,argo-gcp-a-l.leefurmore.com
 
 DOMAIN,gcp-u.leefurmore.com
 DOMAIN,gcp-u-tr.leefurmore.com
@@ -112,6 +115,7 @@ DOMAIN,aws-gcp-u.leefurmore.com
 DOMAIN,cf-gcp-u.leefurmore.com
 DOMAIN,gc-gcp-u.leefurmore.com
 DOMAIN,bn-gcp-u.leefurmore.com
+DOMAIN,argo-gcp-u-l.leefurmore.com
 
 DOMAIN,rn-u.leefurmore.com
 DOMAIN,rn-u-tr.leefurmore.com
@@ -120,6 +124,9 @@ DOMAIN,aws-rn-u.leefurmore.com
 DOMAIN,cf-rn-u.leefurmore.com
 DOMAIN,gc-rn-u.leefurmore.com
 DOMAIN,bn-rn-u.leefurmore.com
+DOMAIN,argo-rn-l.leefurmore.com
+DOMAIN,argo-rn-v.leefurmore.com
+DOMAIN,argo-rn-t.leefurmore.com
 
 # Personal
 DOMAIN-SUFFIX,leefurmore.com
