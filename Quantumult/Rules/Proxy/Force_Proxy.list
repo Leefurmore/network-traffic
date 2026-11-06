@@ -28,6 +28,7 @@ HOST-SUFFIX,adguard-dns.com,Force_Proxy
 # HOST,captive.apple.com,Force_Proxy
 
 # Rule-Supplement
+HOST-SUFFIX,3gppnetwork.org,Force_Proxy
 HOST-SUFFIX,tmobile.com,Force_Proxy
 HOST-SUFFIX,t-mobile.com,Force_Proxy
 HOST-SUFFIX,amazonaws.com,Force_Proxy

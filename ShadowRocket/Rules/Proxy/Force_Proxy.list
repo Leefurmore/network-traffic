@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,adguard-dns.com
 # DOMAIN,captive.apple.com
 
 # Rule-Supplement
+DOMAIN-SUFFIX,3gppnetwork.org
 DOMAIN-SUFFIX,tmobile.com
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,amazonaws.com
