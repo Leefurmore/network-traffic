@@ -90,7 +90,6 @@ payload:
 
 # Personal
   - DOMAIN-SUFFIX,leefurmore.com
-  - DOMAIN-SUFFIX,3gppnetwork.org
 
 # CN Site
   - DOMAIN-KEYWORD,china

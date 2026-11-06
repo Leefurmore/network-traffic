@@ -107,6 +107,7 @@ HOST,cf-gcp-a.leefurmore.com,Force_Direct
 HOST,gc-gcp-a.leefurmore.com,Force_Direct
 HOST,bn-gcp-a.leefurmore.com,Force_Direct
 HOST,argo-gcp-a-l.leefurmore.com,Force_Direct
+HOST,argo-gcp-a-x.leefurmore.com,Force_Direct
 
 HOST,gcp-u.leefurmore.com,Force_Direct
 HOST,gcp-u-tr.leefurmore.com,Force_Direct
@@ -116,6 +117,7 @@ HOST,cf-gcp-u.leefurmore.com,Force_Direct
 HOST,gc-gcp-u.leefurmore.com,Force_Direct
 HOST,bn-gcp-u.leefurmore.com,Force_Direct
 HOST,argo-gcp-u-l.leefurmore.com,Force_Direct
+HOST,argo-gcp-u-x.leefurmore.com,Force_Direct
 
 HOST,rn-u.leefurmore.com,Force_Direct
 HOST,rn-u-tr.leefurmore.com,Force_Direct
@@ -127,10 +129,10 @@ HOST,bn-rn-u.leefurmore.com,Force_Direct
 HOST,argo-rn-l.leefurmore.com,Force_Direct
 HOST,argo-rn-v.leefurmore.com,Force_Direct
 HOST,argo-rn-t.leefurmore.com,Force_Direct
+HOST,argo-rn-x.leefurmore.com,Force_Direct
 
 # Personal
 HOST-SUFFIX,leefurmore.com,Force_Direct
-HOST-SUFFIX,3gppnetwork.org,Force_Direct
 
 # CN Site
 HOST-KEYWORD,china,Force_Direct

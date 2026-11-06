@@ -20,6 +20,7 @@ payload:
   - DOMAIN,gc-gcp-a.leefurmore.com
   - DOMAIN,bn-gcp-a.leefurmore.com
   - DOMAIN,argo-gcp-a-l.leefurmore.com
+  - DOMAIN,argo-gcp-a-x.leefurmore.com
 
   - DOMAIN,gcp-u.leefurmore.com
   - DOMAIN,gcp-u-tr.leefurmore.com
@@ -29,6 +30,7 @@ payload:
   - DOMAIN,gc-gcp-u.leefurmore.com
   - DOMAIN,bn-gcp-u.leefurmore.com
   - DOMAIN,argo-gcp-u-l.leefurmore.com
+  - DOMAIN,argo-gcp-u-x.leefurmore.com
 
   - DOMAIN,rn-u.leefurmore.com
   - DOMAIN,rn-u-tr.leefurmore.com
@@ -40,3 +42,4 @@ payload:
   - DOMAIN,argo-rn-l.leefurmore.com
   - DOMAIN,argo-rn-v.leefurmore.com
   - DOMAIN,argo-rn-t.leefurmore.com
+  - DOMAIN,argo-rn-x.leefurmore.com

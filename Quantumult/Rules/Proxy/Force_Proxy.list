@@ -72,3 +72,4 @@ HOST-SUFFIX,oplist.org,Force_Proxy
 HOST-SUFFIX,mixpanel.com,Force_Proxy
 HOST-SUFFIX,scorecardresearch.com,Force_Proxy
 HOST-SUFFIX,infuse.im,Force_Proxy
+HOST-SUFFIX,trakt.tv,Force_Proxy

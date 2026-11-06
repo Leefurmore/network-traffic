@@ -107,6 +107,7 @@ DOMAIN,cf-gcp-a.leefurmore.com
 DOMAIN,gc-gcp-a.leefurmore.com
 DOMAIN,bn-gcp-a.leefurmore.com
 DOMAIN,argo-gcp-a-l.leefurmore.com
+DOMAIN,argo-gcp-a-x.leefurmore.com
 
 DOMAIN,gcp-u.leefurmore.com
 DOMAIN,gcp-u-tr.leefurmore.com
@@ -116,6 +117,7 @@ DOMAIN,cf-gcp-u.leefurmore.com
 DOMAIN,gc-gcp-u.leefurmore.com
 DOMAIN,bn-gcp-u.leefurmore.com
 DOMAIN,argo-gcp-u-l.leefurmore.com
+DOMAIN,argo-gcp-u-x.leefurmore.com
 
 DOMAIN,rn-u.leefurmore.com
 DOMAIN,rn-u-tr.leefurmore.com
@@ -127,10 +129,10 @@ DOMAIN,bn-rn-u.leefurmore.com
 DOMAIN,argo-rn-l.leefurmore.com
 DOMAIN,argo-rn-v.leefurmore.com
 DOMAIN,argo-rn-t.leefurmore.com
+DOMAIN,argo-rn-x.leefurmore.com
 
 # Personal
 DOMAIN-SUFFIX,leefurmore.com
-DOMAIN-SUFFIX,3gppnetwork.org
 
 # CN Site
 DOMAIN-KEYWORD,china
