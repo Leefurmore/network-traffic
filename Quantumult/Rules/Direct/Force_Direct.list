@@ -225,6 +225,8 @@ HOST-SUFFIX,jddebug.com,Force_Direct
 HOST-SUFFIX,effirst.com,Force_Direct
 HOST-SUFFIX,snssdk.com,Force_Direct
 HOST-SUFFIX,ctobsnssdk.com,Force_Direct
+HOST-SUFFIX,mediav.com,Force_Direct
+HOST-SUFFIX,mmstat.com,Force_Direct
 
 # AD
 HOST-SUFFIX,adkwai.com,Force_Direct
