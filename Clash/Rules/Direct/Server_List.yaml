@@ -2,6 +2,7 @@
 payload:
 # Server
   - DOMAIN,d1p3l8avfvl911.cloudfront.net
+  - DOMAIN,d2j70rjowr357q.cloudfront.net
   - DOMAIN,d2yetrest76cgq.cloudfront.net
   - DOMAIN,d3rezogeioh4hp.cloudfront.net
   - DOMAIN,trycloudflare.com
