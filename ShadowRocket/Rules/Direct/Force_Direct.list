@@ -51,6 +51,9 @@ IP-CIDR,fc00::/7
 IP-CIDR,fe80::/10
 IP-CIDR,ff00::/8
 
+# Host
+DOMAIN,homeassistant
+
 # China DNS
 IP-CIDR,202.98.0.68/32
 IP-CIDR,202.98.5.68/32

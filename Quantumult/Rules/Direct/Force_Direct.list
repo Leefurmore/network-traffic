@@ -51,6 +51,9 @@ IP6-CIDR,fc00::/7,Force_Direct
 IP6-CIDR,fe80::/10,Force_Direct
 IP6-CIDR,ff00::/8,Force_Direct
 
+# Host
+HOST,homeassistant,Force_Direct
+
 # China DNS
 IP-CIDR,202.98.0.68/32,Force_Direct
 IP-CIDR,202.98.5.68/32,Force_Direct
