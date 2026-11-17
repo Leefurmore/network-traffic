@@ -55,42 +55,6 @@ payload:
 # Host
   - DOMAIN,homeassistant
 
-# China DNS
-  - IP-CIDR,202.98.0.68/32
-  - IP-CIDR,202.98.5.68/32
-  - IP-CIDR6,2408:8888::8/128
-  - IP-CIDR6,2408:8899::8/128
-
-  - IP-CIDR,114.114.114.114/32
-  - IP-CIDR,114.114.115.115/32
-
-  - IP-CIDR,223.5.5.5/32
-  - IP-CIDR,223.6.6.6/32
-  - IP-CIDR6,2400:3200::1/128
-  - IP-CIDR6,2400:3200:baba::1/128
-  - DOMAIN-SUFFIX,dns.alidns.com
-
-  - IP-CIDR,119.29.29.29/32
-  - IP-CIDR,120.53.53.53/32
-  - IP-CIDR,1.12.12.21/32
-  - IP-CIDR6,2402:4e00::/128
-  - IP-CIDR6,2402:4e00:1::/128
-  - DOMAIN-SUFFIX,dns.pub
-  - DOMAIN-SUFFIX,doh.pub
-  - DOMAIN-SUFFIX,dot.pub
-
-# Cloudflare DNS ipv6
-  - IP-CIDR6,2606:4700:4700::1111/128
-  - IP-CIDR6,2606:4700:4700::1001/128
-
-# Google DNS ipv6
-  - IP-CIDR6,2001:4860:4860::8888/128
-  - IP-CIDR6,2001:4860:4860::8844/128
-
-# AdGuard DNS ipv6
-  - IP-CIDR6,2a10:50c0::1:ff/128
-  - IP-CIDR6,2a10:50c0::2:ff/128
-
 # Personal
   - DOMAIN-SUFFIX,leefurmore.com
 
