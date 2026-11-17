@@ -135,6 +135,9 @@ HOST,argo-rn-v.leefurmore.com,Force_Direct
 HOST,argo-rn-t.leefurmore.com,Force_Direct
 HOST,argo-rn-x.leefurmore.com,Force_Direct
 
+HOST-SUFFIX,toshiba-qwer.com,Force_Direct
+HOST-SUFFIX,micron-qwer.com,Force_Direct
+
 # Personal
 HOST-SUFFIX,leefurmore.com,Force_Direct
 

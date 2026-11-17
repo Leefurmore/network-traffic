@@ -135,6 +135,9 @@ DOMAIN,argo-rn-v.leefurmore.com
 DOMAIN,argo-rn-t.leefurmore.com
 DOMAIN,argo-rn-x.leefurmore.com
 
+DOMAIN-SUFFIX,toshiba-qwer.com
+DOMAIN-SUFFIX,micron-qwer.com
+
 # Personal
 DOMAIN-SUFFIX,leefurmore.com
 
