@@ -45,5 +45,5 @@ payload:
   - DOMAIN,argo-rn-t.leefurmore.com
   - DOMAIN,argo-rn-x.leefurmore.com
 
-  - DOMAIN-SUFFIX,toshiba-qwer.com
   - DOMAIN-SUFFIX,micron-qwer.com
+  - DOMAIN-SUFFIX,f5b2c3f28edd4e9880ada3382f4453e8.com
