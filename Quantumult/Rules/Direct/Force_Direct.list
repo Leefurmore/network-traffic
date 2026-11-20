@@ -103,6 +103,8 @@ HOST,bn-gcp-a.b-cdn.net,Force_Direct
 HOST,bn-gcp-u.b-cdn.net,Force_Direct
 HOST,bn-rn-u.b-cdn.net,Force_Direct
 
+HOST,cf-best.leefurmore.com,Force_Direct
+
 HOST,gcp-a.leefurmore.com,Force_Direct
 HOST,gcp-a-tr.leefurmore.com,Force_Direct
 HOST,gcp-a-xr.leefurmore.com,Force_Direct
